@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 51,
-    "latestVersionName": "1.5.1",
-    "releaseNotes": "- Tối ưu, fix các lỗi gây treo, lag\n- Thêm Cronet bypass chặn từ nhà mạng\n- Backup yêu thích và lịch sử xem trước khi update",
+    "latestVersionCode": 52,
+    "latestVersionName": "1.5.2",
+    "releaseNotes": "- Fix lỗi văng app khi tua liên tục\n- Fix lỗi lịch sử xem\n- Backup yêu thích và lịch sử xem trước khi update",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/app-release.apk"
 }
