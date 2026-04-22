@@ -1,6 +1,6 @@
 {
     "latestVersionCode": 53,
-    "latestVersionName": "1.5.3",
-    "releaseNotes": "- Fix lỗi thêm nguồn cho Android Box\n- Thêm lịch sử xem cho phim nhúng embed\n- Backup yêu thích và lịch sử xem trước khi update",
+    "latestVersionName": "1.5.4",
+    "releaseNotes": "- Fix lỗi lặt vặt\n- Backup yêu thích và lịch sử xem trước khi update",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/app-release.apk"
 }
